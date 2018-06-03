@@ -1,0 +1,10 @@
+#Exclude the build directory
+bin/
+obj/
+
+*.tmp
+
+# IDE
+/.vs
+# Project user settings
+*.csproj.user
